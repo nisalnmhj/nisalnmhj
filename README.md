@@ -1,5 +1,5 @@
 ### HI THERE!!
-My Name is Nishan Maharjan. I am software engineer and an artist. 
+My Name is Nishan Maharjan. I am software engineer and self Learned artist. 
 
 ### EDUCATION
 - American River College
