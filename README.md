@@ -1,6 +1,6 @@
 # 👋 HI THERE!!
 
-My Name is **Nishan Maharjan**. I am a passionate and result-driven Computer Science student and self-learned artisan. 
+My Name is **Nishan Maharjan**. I am a passionate and result-driven software developer and cloud engineer in designing, developing, testing, and deploying innovative and customer-centric products as an individual contributor and in cross-functional teams with experience in designing, developing, testing, and deploying innovative and customer-centric products as an individual contributor and in cross-functional teams.
 
 ---
 
