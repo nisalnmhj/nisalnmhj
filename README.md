@@ -15,7 +15,6 @@ My Name is **Nishan Maharjan**. I am a passionate and result-driven software dev
 ---
 
 ## 💻 Languages
-- ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 - ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
 - ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 - ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
